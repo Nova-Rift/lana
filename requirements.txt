@@ -1,0 +1,4 @@
+torch>=2.2,<3
+numpy>=1.26,<3
+safetensors>=0.4,<1
+gymnasium>=1.0,<2

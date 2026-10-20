@@ -1,0 +1,6 @@
+{
+  "origin": "Nova-Rift/survival-agent",
+  "commit": "4b54ed9b08ad0d4bd9e23126ed85421802b48dbb",
+  "model_sha256": "7d192b4ab664c911334ef20626868c70f0483caff38ebd8459bf8052a73211a6",
+  "note": "Our existing implementation extracted unchanged; no third-party model source."
+}
